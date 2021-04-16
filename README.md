@@ -1,2 +1,0 @@
-PROJETO FEITO PARA O BOOTCAMP HTML DEVELOPER DA DIO
-Replica da tela inicial do NEtflix
